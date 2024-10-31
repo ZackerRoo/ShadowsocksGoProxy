@@ -1,0 +1,5 @@
+proxy:
+  protocol: "socks5"
+  port: 1080
+
+subscription_url: "http:example.com"
